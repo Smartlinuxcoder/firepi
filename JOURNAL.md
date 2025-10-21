@@ -6,11 +6,7 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **FirePI**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/29).
-
-
-## 10/5/2025 9 AM - Started making the Schematic  
+## 10/5/2025 11 AM - Started making the Schematic  
 
 Hello, World!
 I settled down to a ICE40UP5K-SG48I since it has a QFN package and an OK number of LUTs
@@ -19,7 +15,7 @@ I also tried making a power supply filter, but I can't seem to add ferrite beads
 ![Screenshot From 2025-10-05 11-37-35.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NTExLCJwdXIiOiJibG9iX2lkIn19--39347129a2adfe8384a4832272bf8f5a5c7b151a/Screenshot%20From%202025-10-05%2011-37-35.png)
 Note that the voltage regulators are still to be chosen, since I want to power an rp2350 on the same board too.  
 
-## 10/5/2025 7 PM - Habemus schematic!  
+## 10/5/2025 9 PM - Habemus schematic!  
 
 INSANE rp2350 && ice40 schematic speedrunning session
 Just mostly need to get the 40-pin connector in-place
@@ -29,5 +25,16 @@ I still have to find the perfect ferrite bead
 I also need to add an SPI and UART connection between the rp2350 and the ice40.
 
 By the way, you might be wondering what are those strangely-routed USB and USBc female ports are for, and I will be using those to see if I can make my own TCP/IP stack on the fpga, as a nice side-quest.
+  
+
+## 10/21/2025 - Routed?  
+
+Today I changed switched of my capacitors to be 0402, I also placed the components on the pcb and routed them, for the most part.
+
+I also decided I will use a 4 layer board with Signal-GND-3v3?-Signal layout.
+I have a few doubts if I have positioned the inductors for the rp2350 regulator correctly
+Did some of the work in class because I was bored =D
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDEwOCwicHVyIjoiYmxvYl9pZCJ9fQ==--45406e2ccc5dab5e7b4fdd2ce63cd635cf8f80a6/image.png)
   
 
