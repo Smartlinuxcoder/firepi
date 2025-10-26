@@ -38,3 +38,11 @@ Did some of the work in class because I was bored =D
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDEwOCwicHVyIjoiYmxvYl9pZCJ9fQ==--45406e2ccc5dab5e7b4fdd2ce63cd635cf8f80a6/image.png)
   
 
+## 10/26/2025 - Routing session #2  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTczNiwicHVyIjoiYmxvYl9pZCJ9fQ==--6f61c3cb7d7cfe4598b308f536eb85cc839d0ad8/image.png)
+Re-did the wiring of some of my components, added routing to the headers
+I have yet to find the use for 10 pins
+also to add is a nice reset button for the fpga and *maybe* a programming port
+  
+
