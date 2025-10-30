@@ -46,3 +46,11 @@ I have yet to find the use for 10 pins
 also to add is a nice reset button for the fpga and *maybe* a programming port
   
 
+## 10/30/2025 - The end?  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njc2MCwicHVyIjoiYmxvYl9pZCJ9fQ==--50b4690e4d11bb4844495d8544e7b45f79a53d08/image.png)
+
+Hi fellow readers, today I added 4 small neopixels on the top-right of my board, fixed some of my extremely janky routing for the headers, added some debug headers for the rp2350 and a button to reset the ice40.
+
+I am most likely finished with this board, just needs some polishing and some silkscreen art :)  
+
