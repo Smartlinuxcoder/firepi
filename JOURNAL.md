@@ -54,3 +54,13 @@ Hi fellow readers, today I added 4 small neopixels on the top-right of my board,
 
 I am most likely finished with this board, just needs some polishing and some silkscreen art :)  
 
+## 11/3/2025 - smol update  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODA0NywicHVyIjoiYmxvYl9pZCJ9fQ==--c821725aa065290613f6a393669ebc4873ce4e44/image.png)
+Fellow readers, we have reached the end, wanted to show you a final pcb screenshot of the wiring, I routed cdone and reset pins out to the headers to be able to program it.
+Here follow the rest of the pcb stackup
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODA0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--7236b1425da9a350151863464792a51b6f461165/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODA0OSwicHVyIjoiYmxvYl9pZCJ9fQ==--583c2146d0f9c224f080568026dcd9e928058faf/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODA1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--d4452b013c3c8bfa878d65aa1df44176e8753b06/image.png)
+  
+
