@@ -1,0 +1,2 @@
+set_io clk_50mhz 35
+set_io led_out 23
