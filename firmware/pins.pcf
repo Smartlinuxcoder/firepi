@@ -1,2 +1,9 @@
 set_io clk_50mhz 35
 set_io led_out 23
+set_io led_solved 13
+set_io uart_rx 18
+set_io uart_tx 19
+
+# entangled qubits
+set_io uart1_rx 26
+set_io uart1_tx 25

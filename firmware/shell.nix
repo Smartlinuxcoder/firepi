@@ -11,6 +11,9 @@ pkgs.mkShell {
   ];
 
   shellHook = ''
-    echo "arsonism"
+    echo "iCE40 toolchain ready:"
+    echo " - yosys"
+    echo " - nextpnr-ice40"
+    echo " - icepack / icetime / iceprog"
   '';
 }

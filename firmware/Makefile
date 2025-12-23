@@ -4,8 +4,8 @@ PACKAGE   = sg48
 
 all: $(TOP).bin
 
-$(TOP).json: $(TOP).v
-	yosys -p "synth_ice40 -top $(TOP) -json $(TOP).json" $(TOP).v
+$(TOP).json: $(TOP).v uart.v
+	yosys -p "synth_ice40 -top $(TOP) -json $(TOP).json" $(TOP).v uart.v
 
 $(TOP).asc: $(TOP).json pins.pcf
 	nextpnr-ice40 --$(DEVICE) --package $(PACKAGE) \
