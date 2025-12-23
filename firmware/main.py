@@ -32,7 +32,7 @@ def run_example():
         time.sleep(0.1)
 
 
-print("UART FPGA Controller")
+print("Quantum emulator controller")
 print("Commands: r, h0, h1, c01, c10, m, e (export/sync), q to quit")
 while True:
     user_input = input("> ").strip()
